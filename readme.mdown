@@ -8,3 +8,7 @@ To do list for ToDoApp
 - User / remove task
 - User / change task
 - User / change status of task
+
+### About
+This is my first C# project.
+Creating this with MVC 4, Entity Framework and Code first.
