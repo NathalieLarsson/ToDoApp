@@ -1,0 +1,10 @@
+ToDoApp - Small To do application from Nathalie
+================================================
+
+To do list for ToDoApp
+-----------------------
+- Create user
+- User / add task
+- User / remove task
+- User / change task
+- User / change status of task
