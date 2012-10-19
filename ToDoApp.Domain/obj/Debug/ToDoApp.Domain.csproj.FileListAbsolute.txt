@@ -1,0 +1,11 @@
+D:\Github\ToDoApp\ToDoApp.Domain\bin\ToDoApp.Domain.dll
+D:\Github\ToDoApp\ToDoApp.Domain\bin\ToDoApp.Domain.pdb
+D:\Github\ToDoApp\ToDoApp.Domain\bin\EntityFramework.dll
+D:\Github\ToDoApp\ToDoApp.Domain\bin\EntityFramework.xml
+D:\Github\ToDoApp\ToDoApp.Domain\obj\Debug\ToDoApp.Domain.csprojResolveAssemblyReference.cache
+D:\Github\ToDoApp\ToDoApp.Domain\obj\Debug\ToDoApp.Domain.Migrations.Init.resources
+D:\Github\ToDoApp\ToDoApp.Domain\obj\Debug\ToDoApp.Domain.Migrations.v01.resources
+D:\Github\ToDoApp\ToDoApp.Domain\obj\Debug\ToDoApp.Domain.Migrations.v02.resources
+D:\Github\ToDoApp\ToDoApp.Domain\obj\Debug\ToDoApp.Domain.csproj.GenerateResource.Cache
+D:\Github\ToDoApp\ToDoApp.Domain\obj\Debug\ToDoApp.Domain.dll
+D:\Github\ToDoApp\ToDoApp.Domain\obj\Debug\ToDoApp.Domain.pdb

@@ -1,0 +1,10 @@
+D:\Github\ToDoApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Github\ToDoApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Github\ToDoApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Github\ToDoApp\ConsoleApplication1\bin\Debug\ToDoApp.Domain.dll
+D:\Github\ToDoApp\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\Github\ToDoApp\ConsoleApplication1\bin\Debug\ToDoApp.Domain.pdb
+D:\Github\ToDoApp\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\Github\ToDoApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Github\ToDoApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Github\ToDoApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
